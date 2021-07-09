@@ -92,3 +92,7 @@ color: white;
     display: flex;
 
 }
+.image img{
+    width: 575px;
+    height:400px;
+}
