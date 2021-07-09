@@ -87,12 +87,15 @@ color: white;
 .about-me{
  display: flex;
  flex-direction: column;
+ margin-top: 10px;
+ box-sizing: border-box;
+ padding: 20px;
 }
 .image{
     display: flex;
 
 }
 .image img{
-    width: 575px;
+    width: 500px;
     height:400px;
 }
