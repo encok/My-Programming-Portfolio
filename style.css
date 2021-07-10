@@ -168,7 +168,8 @@ color: white;
     background-color: white;
 }
 .heading2{
-    margin-left: 600px;
+    margin-left: 500px;
+    text-decoration: underline;
 }
 .description{
     display: flex;
@@ -176,5 +177,46 @@ color: white;
 }
 .descr{
     display: flex;
+    justify-content: space-around;
+    margin: 10px -20px 0px 20px;
+    padding: 5px 5px 0 0px;
+    font-size: 15px;
     
+
+    
+}
+.content{
+    background-color: black;
+    color: white;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 200px 0 0;
+}
+.content .p1{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+.content .p2{
+    margin-left: 100px;
+    margin-right: 0px;
+}
+.content .p3{
+    margin-left: 100px;
+    margin-right: -240px;
+}
+.descr1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.descr1 .h31{
+    margin-left: -40px;
+}
+.descr1 .h32{
+    margin-right: 200px;
+}
+.descr1 .h33{
+    margin-right: 60px;
+    margin-left: -200px;
 }
