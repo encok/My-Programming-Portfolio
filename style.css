@@ -123,6 +123,7 @@ color: white;
  margin-top: 10px;
  box-sizing: border-box;
  padding: 20px;
+ 
 }
 .image{
     display: flex;
@@ -153,14 +154,12 @@ color: white;
 }
 .row{
     display: flex;
-    flex-direction: column;
-
-    
+       
 }
 .box1{
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 230px;
     height: 300px;
     border: 1px solid black;
     margin: 20px;
@@ -169,6 +168,20 @@ color: white;
     padding-top: 40px;
     box-shadow:0 3px 10px rgb(0 0 0 / 0.2) ;
     border-radius: 40px 40px 0 0;
+    background-color: lightcyan;
+    
+}
+.box1:hover {
+    transform: scale(1.1);
+}
+.box1 img{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+}
+.heading4 p{
+    margin: 20px;
+    letter-spacing: 0.1em;
 }
 /* section for projects done */
 .projects{
