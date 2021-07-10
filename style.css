@@ -176,17 +176,34 @@ color: white;
     
 }
 .box2 img{
-   width: 400px;
-   height: 300px;
+   width: 300px;
+   height: 200px;
    margin-left: 400px;
 
 }
 .jordan img{
     width: 300px;
-    height: 300px;
-    margin-top: -250px;
-    margin-left: 650px;
+    height: 200px;
+    margin-top: -150px;
+    margin-left: 500px;
 
+}
+.box2{
+    margin-top: 10px ;
+}
+.hobby4{
+    margin-top: -250px;
+    width: 340px;
+    height: 220px;
+    margin-left: 70px;
+    padding: 20px;
+}
+.hobby4 p{
+    font-size: 11px;
+}
+.heading5{
+    margin-top: -200px;
+    margin-bottom: 100px;
 }
 .box1:hover {
     transform: scale(1.1);
