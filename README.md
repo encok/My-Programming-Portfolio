@@ -20,7 +20,7 @@ It also has my skills with the job experience in the about me section.The main l
 My portfolio project uses VScode, Atom , notepad++ and sublime text3 editors. This therefore implies that one is needed to have ither of the editors installed in their machines/ computers so as to be able to run the program. it runs properly in chrome and mozilla browsers.
 All interested people are advised to create a branch on gitHub and clone this project and make any necessary improvements. On my trial branch, you shall merge the two branches to have your improvements reflected. I will be so grateful.
 ## Live Site on GitHub
-
+https://encok.github.io/My-Programming-Portfolio/
 ## Copyright and license
 My portfolio project uses MIT license which means anyone is free to clone the project and go and improve it but do not mess with my original code.
 
