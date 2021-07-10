@@ -274,7 +274,7 @@ color: white;
     background-color:#8c9ba5;
     
 }
-.form{
+#form{
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
