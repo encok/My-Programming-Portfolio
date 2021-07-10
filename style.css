@@ -267,7 +267,8 @@ color: white;
     padding: 20px;
     box-sizing: border-box;
     color: white;
-    background-color: wheat;
+    background-color:#8c9ba5;
+    
 }
 .form{
     display: flex;
@@ -280,4 +281,17 @@ color: white;
 .input{
     padding: 12px;
     margin: 15px;
+    outline: none;
+    border: none;
+}
+#msg{
+    width: 240px;
+    margin:17px;
+    padding: 12px;
+    height: 100px;
+    outline: none;
+    border: none;
+}
+#send{
+    
 }
