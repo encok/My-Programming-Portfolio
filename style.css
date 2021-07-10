@@ -170,3 +170,11 @@ color: white;
 .heading2{
     margin-left: 600px;
 }
+.description{
+    display: flex;
+    flex-direction: column;
+}
+.descr{
+    display: flex;
+    
+}
