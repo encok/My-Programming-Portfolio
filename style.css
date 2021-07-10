@@ -175,6 +175,19 @@ color: white;
     background-color: lightcyan;
     
 }
+.box2 img{
+   width: 400px;
+   height: 300px;
+   margin-left: 400px;
+
+}
+.jordan img{
+    width: 300px;
+    height: 300px;
+    margin-top: -250px;
+    margin-left: 650px;
+
+}
 .box1:hover {
     transform: scale(1.1);
 }
