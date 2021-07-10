@@ -259,3 +259,25 @@ color: white;
     margin-right: 60px;
     margin-left: -200px;
 }
+/* contact section */
+
+.contact-me{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+    background-color: wheat;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 20px 0px;
+
+}
+.input{
+    padding: 12px;
+    margin: 15px;
+}
