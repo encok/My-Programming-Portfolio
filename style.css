@@ -45,13 +45,13 @@ html{
 #home{
 display: flex;
 flex-direction: column;
-height: 540px;
+height: 600px;
 background-color: rgba(0, 0, 0, 0.5);
 justify-content: center;
 align-items: center;
 color: white;
 }
-.home::before{
+#home::before{
     content: "";
     position: absolute ;
     top: 0;
@@ -60,7 +60,7 @@ color: white;
     height: 600px;
     width: 100%;
     z-index: -1;
-    opacity: .2;
+    opacity: 0.2;
 
 }
 .home-main{
@@ -78,7 +78,7 @@ color: white;
     text-align: center;
     margin: 30px 0px;
     font-family: Optima, sans-serif;
-    margin-top: 210px;
+    margin-top: 160px;
     margin-right: 260px;
 }
 .heading{
